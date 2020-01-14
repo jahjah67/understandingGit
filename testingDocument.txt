@@ -1,4 +1,0 @@
-New versioning tutorial
-
-v1 testing.
-v2 testing.
