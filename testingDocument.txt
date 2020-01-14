@@ -1,8 +1,3 @@
-Hello there, this should be for the first commit.
+New versioning tutorial
 
-version 1 !!
-version 2 !!
-version 3 !!
-version 4 !!
-version 4 !!
-version 4 !!
+v1 testing.
